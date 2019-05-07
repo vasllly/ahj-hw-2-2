@@ -1,3 +1,21 @@
-p {
-    color: black;
+table {
+    margin: auto;
+    border: 1px solid grey;
+    width: 600px;
+} 
+
+th {
+    border: 1px solid grey;
+}
+
+td {
+    border: 1px solid grey;
+}
+
+.darr:after { 
+    content: "\2193"; 
+}
+
+.uarr:after { 
+    content: "\2191"; 
 }
